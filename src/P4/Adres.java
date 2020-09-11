@@ -1,6 +1,7 @@
-package P3;
+package P4;
 
 public class Adres {
+
     private int adres_id;
     private String postcode;
     private String huisnummer;
